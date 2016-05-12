@@ -2,8 +2,6 @@
 
 ![iTerm2 Screenshot](iterm-screenshot.png)
 
-![Colors Screenshot](pandora.png)
-
 ##Installation Instructions##
 * Launch iTerm 2
 * Go to Preferences > Profiles
@@ -12,3 +10,5 @@
 * Click on Import
 * Select the Pandora.itermcolors
 * Click on Load Presets and choose a Pandora scheme
+
+![Colors Screenshot](pandora.png)
