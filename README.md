@@ -2,7 +2,7 @@
 
 ![iTerm2 Screenshot](iterm-screenshot.png)
 
-##Installation Instructions##
+## Installation Instructions
 * Launch iTerm 2
 * Go to Preferences > Profiles
 * Navigate to Colors tab
